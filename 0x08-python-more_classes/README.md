@@ -1,4 +1,4 @@
-# 0x08-pythonn - More Classes and Objects :python:
+# 0x08-python - More Classes and Objects :snakes:
 
 In this project, I continued to practice object-oriented programming in Python. I learned about class methods, static methods, class vs instance attributes, andbhow to use the special `__str__` and `__repr__` methods.
 
